@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Overworld Gateway | Minecraft Adventure",
+    "description": "Explore the creative world of Minecraft, build amazing structures, and embark on epic adventures."
+  },
+  "hero": {
+    "title": "Welcome to the Minecraft Adventure",
+    "description": "Explore endless possibilities, build amazing structures, and embark on epic adventures in the world of blocks and creativity."
+  },
+  "buildFlow": {
+    "title": "Build Flow",
+    "items": [
+      {
+        "icon": "🏗️",
+        "title": "Plan Your Build",
+        "description": "Start with a vision and plan out your creation. Sketch ideas or use planning tools to map your masterpiece."
+      },
+      {
+        "icon": "🧱",
+        "title": "Gather Resources",
+        "description": "Collect the blocks and materials you'll need. Mine, craft, and trade to acquire everything for your project."
+      },
+      {
+        "icon": "🔨",
+        "title": "Start Building",
+        "description": "Begin with foundations and work your way up. Take it step by step and watch your creation come to life."
+      },
+      {
+        "icon": "✨",
+        "title": "Add Details",
+        "description": "Enhance your build with decorative elements, lighting, and landscaping to make it truly unique."
+      }
+    ]
+  },
+  "blockscape": {
+    "title": "Blockscape",
+    "content": "<div class='blockscape-grid'><div class='blockscape-item'><h3>Infinite Possibilities</h3><p>With hundreds of unique blocks and items, your creativity knows no bounds. Build anything from cozy cottages to sprawling cities.</p></div><div class='blockscape-item'><h3>Express Yourself</h3><p>Every block you place is a reflection of your imagination. Create structures that tell your story in the Minecraft universe.</p></div></div>"
+  },
+  "craftingGrounds": {
+    "title": "Crafting Grounds",
+    "content": "<div class='crafting-showcase'><div class='crafting-text'><h3 class='crafting-title'>Master the Art of Crafting</h3><p>Combine resources to create tools, weapons, armor, and decorative items. Discover new recipes and perfect your crafting skills.</p><p>From simple wooden tools to enchanted diamond gear, crafting is at the heart of your Minecraft journey.</p></div><div class='crafting-image'><div class='crafting-table'></div></div></div>"
+  },
+  "biomeExplorer": {
+    "title": "Biome Explorer",
+    "content": "<div class='biome-carousel'><div class='biome-card'><h3>Lush Forests</h3><p>Explore dense woodlands teeming with life and resources.</p></div><div class='biome-card'><h3>Vast Deserts</h3><p>Navigate the sandy dunes and discover hidden temples.</p></div><div class='biome-card'><h3>Snowy Tundras</h3><p>Brave the cold and build ice palaces in these frozen landscapes.</p></div><div class='biome-card'><h3>Deep Oceans</h3><p>Dive into underwater adventures and find sunken treasures.</p></div></div>"
+  },
+  "voices": {
+    "title": "Voices From the Biomes",
+    "items": [
+      {
+        "text": "Minecraft has unleashed my creativity in ways I never thought possible. I've built entire cities and made friends from around the world!",
+        "name": "BlockMaster2000",
+        "location": "Sydney, Australia"
+      },
+      {
+        "text": "The community is what makes Minecraft special. Everyone is so helpful and supportive of each other's builds and adventures.",
+        "name": "CraftQueen",
+        "location": "Melbourne, Australia"
+      },
+      {
+        "text": "I've been playing for over 8 years and still discover new things every day. The possibilities are truly endless!",
+        "name": "DiamondDigger",
+        "location": "Brisbane, Australia"
+      }
+    ]
+  }
+}
